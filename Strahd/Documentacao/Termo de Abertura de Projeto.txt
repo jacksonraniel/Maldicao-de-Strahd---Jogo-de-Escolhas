@@ -1,0 +1,66 @@
+Título do Projeto: A Maldição de Strahd - RPG de Texto	
+
+Data de Inicio: 14/08/2018	Data de Término: 13/11/2018	  
+
+Líder do Projeto: Daniel   
+
+Cliente: Jackson 	   
+
+Usuarios: Jogadores de RPG e leitores.	  
+
+Expectativas: 
+    Grupo: Ter autoridade para tomar decisões referentes aos requisitos do software
+    Professor Jackson: Ter um jogo funcional que cumpra com os objetivos no final do projeto.	   
+  
+Propósito: 
+    Criar um jogo de interpretação de personagem de texto, baseado em escolhas, que seja ambientado em uma terra 
+    fantasiosa e fictícia na idade média.	  
+    
+Metas e Objetivos:
+    O objetivo geral do projeto é criar um jogo no qual o jogador possa mudar o andar da história dependendo 
+    diretamente de suas ações no jogo. Se espera do jogo:
+        Tenha mais de um final.
+        Entregue uma experiência imersiva de aventura aos jogadores.
+        Múltiplas escolhas (botões) para a maior parte das situações.
+        Áreas revisitáveis.	   
+    
+Conograma:
+    28/08/2018 - Escolha de requisitos/Primeiro Protótipo de Telas
+    11/09/2018 - Entrega – 1a Versão do Documento de Requisitos
+    18/09/2018 - Entrega – 1a Versão do software: Código de alto nível com divisão de responsabilidades
+    25/09/2018 - Entrega – Versão Final do Documento de Requisitos
+    16/10/2018 - Entrega – 2a Versão do software: Principais módulos desenvolvidos
+    23/10/2018 - Entrega – 1a Versão do Documento de Design
+    30/10/2018 - Entrega – 1a Versão do Plano de Testes
+    06/11/2018 - Entrega – 3a Versão do Software: Principais módulos testados e Entrega – 1a Versão do Manual do Usuário
+    13/11/2018 - Entrega – Versão final dos documentos de Design, Testes e Manual do Usuário e entrega – 
+                  Versão final do Código-fonte e executável
+
+Prioridades do projeto e níveis de liberdade: Datas não são flexíveis sem autorização prévia do professor Jackson. 
+    Papéis  podem mudar dependendo da quantidade de trabalho de membros individuais do grupo. É esperado que os 
+    papéis mudem de acordo com as necessidades do projeto.	
+    
+Abordagem: Iterativo e incremental. ‘Feedback’ será utilizado entre uma iteração e outra. A primeira iteração vai 
+    focar em funções básicas do jogo. Iterações subsequentes serão construídas em cima da primeira e incorporaram
+    mais funcionalidades da forma que o tempo permitir.	   
+    
+Restrições: O jogo será desenvolvido como forma de avaliação para a cadeira de Engenharia de Software e portanto 
+    não deve ser publicada e nem utilizado com objetivos financeiros enquanto for uma versão não oficial e adaptada da 
+    aventura A Mina Perdida de Phandelver.	 
+
+Premissas: Todos os membros do grupo e o cliente possuem acesso ao github para que possam trabalhar no projeto e/ou 
+    observar o progresso remotamente.
+    
+Critério para Sucesso: O projeto será considerado como bem sucedido se o grupo entregar um jogo funcional que incorpore
+    os requisitos da documentação na data de finalização do projeto.	 
+    
+Escopo: No mínimo o jogo deve permitir aos jogadores escolher suas ações de uma forma que estas impactem de alguma forma no história.	   
+Riscos e Obstáculos para o sucesso:  Um risco que o grupo enfrenta é a falta de experiência no desenvolvimento de jogos.
+    Falta de experiência gera variáveis desconhecidas. A equipe tem apenas uma ideia geral do trabalho requerido para 
+    implementar os requisitos do projeto. Ainda não temos uma ideia clara sobre como o código será implementado.	  
+    
+Líder de Projeto: Daniel
+__________________________________
+Cliente: Jackson
+__________________________________
+Grupo: Daniel
