@@ -1,0 +1,21 @@
+O Scrum vai ser utilizado. 
+Sprints com duração de uma semana. Uma Sprint possui:
+	-Reunião de de planejamento da Sprint que deve durar no máximo 2 hora e deve responder à essas questões:
+		--O que pode ser entregue como resultado do incremento da próxima Sprint?
+		--Como o trabalho necessário para entregar o incremento será realizado?
+		
+	-Reuniões diárias de 15 minutos que deve responder à essas questões:
+		--O que eu fiz ontem que ajudou o Time de Desenvolvimento a atender a meta da Sprint?
+		--O que eu farei hoje para ajudar o Time de Desenvolvimento atender a meta da Sprint?
+		--Eu vejo algum obstáculo que impeça a mim ou o Time de Desenvolvimento no atendimento da meta da Sprint?
+		
+	-Revisão da Sprint que deve durar no máximo 1 hora que deve incluir:
+		--Esclarecimento sobre quais itens do documento de requisitos foram “Prontos” e quais não foram “Prontos”.
+		--Discussão o que foi bem durante a Sprint, quais problemas ocorreram dentro da Sprint, e como estes problemas foram resolvidos.
+		--O grupo todo colabora sobre o que fazer a seguir.
+		O resultado da revisão da sprint é o documento de requisitos revisado.
+		
+	-Retrospectiva da Sprint, que deve durar no máximo 40 minutos, cujo propósito é:
+		--Inspecionar como a última Sprint foi em relação às pessoas, aos relacionamentos, aos processos e às ferramentas.
+		--Identificar e ordenar os principais itens que foram bem e as potenciais melhorias.
+		--Criar um plano para implementar melhorias no modo que o Time Scrum faz seu trabalho.
