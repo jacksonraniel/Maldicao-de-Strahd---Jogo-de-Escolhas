@@ -2,15 +2,13 @@ Título do Projeto: A Maldição de Strahd - RPG de Texto
 
 Data de Inicio: 14/08/2018	Data de Término: 13/11/2018	  
 
-Líder do Projeto: Daniel   
-
-Cliente: Jackson 	   
+Líder do Projeto: Daniel      
 
 Usuarios: Jogadores de RPG e leitores.	  
 
 Expectativas: 
-    Grupo: Ter autoridade para tomar decisões referentes aos requisitos do software
-    Professor Jackson: Ter um jogo funcional que cumpra com os objetivos no final do projeto.	   
+    Grupo: Ter autoridade para tomar decisões referentes aos requisitos do software e ter um jogo funcional que 
+    cumpra com os objetivos no final do projeto.	   
   
 Propósito: 
     Criar um jogo de interpretação de personagem de texto, baseado em escolhas, que seja ambientado em uma terra 
@@ -60,7 +58,3 @@ Riscos e Obstáculos para o sucesso:  Um risco que o grupo enfrenta é a falta de 
     implementar os requisitos do projeto. Ainda não temos uma ideia clara sobre como o código será implementado.	  
     
 Líder de Projeto: Daniel
-__________________________________
-Cliente: Jackson
-__________________________________
-Grupo: Daniel
