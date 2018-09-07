@@ -36,7 +36,7 @@ Conograma:
     13/11/2018 - Entrega – Versão final dos documentos de Design, Testes e Manual do Usuário e entrega – 
                   Versão final do Código-fonte e executável
 
-Prioridades do projeto e níveis de liberdade: Datas não são flexíveis sem autorização prévia do professor Jackson. 
+Prioridades do projeto e níveis de liberdade: Datas não são flexíveis sem autorização prévia do professor. 
     Papéis  podem mudar dependendo da quantidade de trabalho de membros individuais do grupo. É esperado que os 
     papéis mudem de acordo com as necessidades do projeto.	
     
@@ -45,16 +45,16 @@ Abordagem: Iterativo e incremental. ‘Feedback’ será utilizado entre uma iteração
     mais funcionalidades da forma que o tempo permitir.	   
     
 Restrições: O jogo será desenvolvido como forma de avaliação para a cadeira de Engenharia de Software e portanto 
-    não deve ser publicada e nem utilizado com objetivos financeiros enquanto for uma versão não oficial e adaptada da 
-    aventura A Mina Perdida de Phandelver.	 
-
+    não deve ser publicada e nem utilizado com objetivos financeiros.
+    
 Premissas: Todos os membros do grupo e o cliente possuem acesso ao github para que possam trabalhar no projeto e/ou 
     observar o progresso remotamente.
     
 Critério para Sucesso: O projeto será considerado como bem sucedido se o grupo entregar um jogo funcional que incorpore
     os requisitos da documentação na data de finalização do projeto.	 
     
-Escopo: No mínimo o jogo deve permitir aos jogadores escolher suas ações de uma forma que estas impactem de alguma forma no história.	   
+Escopo: No mínimo o jogo deve permitir aos jogadores escolher suas ações de uma forma que estas impactem de alguma forma no história.	
+   
 Riscos e Obstáculos para o sucesso:  Um risco que o grupo enfrenta é a falta de experiência no desenvolvimento de jogos.
     Falta de experiência gera variáveis desconhecidas. A equipe tem apenas uma ideia geral do trabalho requerido para 
     implementar os requisitos do projeto. Ainda não temos uma ideia clara sobre como o código será implementado.	  
