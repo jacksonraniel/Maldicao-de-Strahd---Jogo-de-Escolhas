@@ -1,5 +1,6 @@
 Vai ser utilizado a metodologia agil Scrum. 
 
+Tendo como o Documento de Especificação de requisitos como 
 Sprints com duração de uma semana. Uma Sprint possui:
 	-Reunião de de planejamento da Sprint que deve durar no máximo 2 hora e deve responder à essas questões:
 		--O que pode ser entregue como resultado do incremento da próxima Sprint?
@@ -12,7 +13,7 @@ Sprints com duração de uma semana. Uma Sprint possui:
 		
 	-Revisão da Sprint que deve durar no máximo 1 hora que deve incluir:
 		--Esclarecimento sobre quais itens do documento de requisitos foram “Prontos” e quais não foram “Prontos”.
-		--Discussão o que foi bem durante a Sprint, quais problemas ocorreram dentro da Sprint, e como estes problemas foram resolvidos.
+		--Discussão sobre o que foi bem durante a Sprint, quais problemas ocorreram dentro da Sprint, e como estes problemas foram resolvidos.
 		--O grupo todo colabora sobre o que fazer a seguir.
 		O resultado da revisão da sprint é o documento de requisitos revisado.
 		
@@ -20,3 +21,4 @@ Sprints com duração de uma semana. Uma Sprint possui:
 		--Inspecionar como a última Sprint foi em relação às pessoas, aos relacionamentos, aos processos e às ferramentas.
 		--Identificar e ordenar os principais itens que foram bem e as potenciais melhorias.
 		--Criar um plano para implementar melhorias no modo que o Time Scrum faz seu trabalho.
+
