@@ -1,4 +1,5 @@
-O Scrum vai ser utilizado. 
+Vai ser utilizado a metodologia agil Scrum. 
+
 Sprints com duração de uma semana. Uma Sprint possui:
 	-Reunião de de planejamento da Sprint que deve durar no máximo 2 hora e deve responder à essas questões:
 		--O que pode ser entregue como resultado do incremento da próxima Sprint?
