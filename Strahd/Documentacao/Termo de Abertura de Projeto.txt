@@ -57,4 +57,4 @@ Riscos e Obstáculos para o sucesso:  Um risco que o grupo enfrenta é a falta de 
     Falta de experiência gera variáveis desconhecidas. A equipe tem apenas uma ideia geral do trabalho requerido para 
     implementar os requisitos do projeto. Ainda não temos uma ideia clara sobre como o código será implementado.	  
     
-Líder de Projeto: Daniel
+Líder de Projeto: Daniel.
