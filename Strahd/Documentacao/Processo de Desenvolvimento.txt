@@ -1,24 +1,28 @@
 Vai ser utilizado a metodologia agil Scrum. 
 
-Tendo como o Documento de EspecificaÁ„o de requisitos como 
-Sprints com duraÁ„o de uma semana. Uma Sprint possui:
-	-Reuni„o de de planejamento da Sprint que deve durar no m·ximo 2 hora e deve responder ‡ essas questıes:
-		--O que pode ser entregue como resultado do incremento da prÛxima Sprint?
-		--Como o trabalho necess·rio para entregar o incremento ser· realizado?
+Tendo como o Documento de Especifica√ß√£o de requisitos como backlog de produto.
+Sprints com dura√ß√£o de uma semana. Uma Sprint possui:
+	-Reuni√£o de de planejamento da Sprint que deve durar no m√°ximo 2 hora e deve responder √† essas quest√µes:
+		--O que pode ser entregue como resultado do incremento da pr√≥xima Sprint?
+			---Escolha de intens dos requesitos para serem incrementados.
+		--Como o trabalho necess√°rio para entregar o incremento ser√° realizado?
+			---Projeto de arquitetura dos subsistemas escolhidos para implementa√ß√£o.
 		
-	-Reuniıes di·rias de 15 minutos que deve responder ‡ essas questıes:
+	-Reuni√µes di√°rias de 10 minutos que deve responder √† essas quest√µes:
 		--O que eu fiz ontem que ajudou o Time de Desenvolvimento a atender a meta da Sprint?
 		--O que eu farei hoje para ajudar o Time de Desenvolvimento atender a meta da Sprint?
-		--Eu vejo algum obst·culo que impeÁa a mim ou o Time de Desenvolvimento no atendimento da meta da Sprint?
+		--Eu vejo algum obst√°culo que impe√ßa a mim ou o Time de Desenvolvimento no atendimento da meta da Sprint?
 		
-	-Revis„o da Sprint que deve durar no m·ximo 1 hora que deve incluir:
-		--Esclarecimento sobre quais itens do documento de requisitos foram ìProntosî e quais n„o foram ìProntosî.
-		--Discuss„o sobre o que foi bem durante a Sprint, quais problemas ocorreram dentro da Sprint, e como estes problemas foram resolvidos.
+	-Revis√£o da Sprint que deve durar no m√°ximo 1 hora que deve incluir:
+		--Esclarecimento sobre quais itens do documento de requisitos foram ‚ÄúProntos‚Äù e quais n√£o foram ‚ÄúProntos‚Äù.
+		--Discuss√£o sobre o que foi bem durante a Sprint, quais problemas ocorreram dentro da Sprint, e como estes problemas foram 		   resolvidos.
 		--O grupo todo colabora sobre o que fazer a seguir.
-		O resultado da revis„o da sprint È o documento de requisitos revisado.
+		O resultado da revis√£o da sprint √© o documento de requisitos revisado.
 		
-	-Retrospectiva da Sprint, que deve durar no m·ximo 40 minutos, cujo propÛsito È:
-		--Inspecionar como a ˙ltima Sprint foi em relaÁ„o ‡s pessoas, aos relacionamentos, aos processos e ‡s ferramentas.
+	-Retrospectiva da Sprint, que deve durar no m√°ximo 40 minutos, cujo prop√≥sito √©:
+		--Inspecionar como a √∫ltima Sprint foi em rela√ß√£o √†s pessoas, aos relacionamentos, aos processos e √†s ferramentas.
 		--Identificar e ordenar os principais itens que foram bem e as potenciais melhorias.
 		--Criar um plano para implementar melhorias no modo que o Time Scrum faz seu trabalho. 
-
+	
+		Durante a sprint os requisitos escolhidos para implementa√ß√£o ser√£o desenvolvidos iterativamente, at√© o final
+	da Sprint onde ser√£o incrementados ao trabalho j√° concluido.
